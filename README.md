@@ -1,6 +1,6 @@
 # libcutiefeedback
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/cutie-shell/libcutiefeedback/tree/droidian.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/cutie-shell/libcutiefeedback/tree/droidian)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/cutie-shell/libcutiefeedback/tree/cutie.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/cutie-shell/libcutiefeedback/tree/cutie)
 
 This library provides feedback abstraction for Cutie.
 
